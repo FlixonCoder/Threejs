@@ -5,6 +5,6 @@ const NavLinks = [
     { label: 'Watch' },
     { label: 'Vision' },
     { label: 'AirPods' },
-]
+];
 
 export { NavLinks }
